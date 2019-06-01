@@ -1,1 +1,3 @@
 addReviewers: true
+reviewers:
+  @rubizza-camp/rubizza-mentors-guild
